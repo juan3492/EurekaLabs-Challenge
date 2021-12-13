@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@vueform/slider": "^2.0.8",
+    "axios": "^0.24.0",
     "bootstrap": "^4.5.3",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.6.5",
